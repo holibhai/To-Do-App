@@ -106,18 +106,12 @@ npx react-native run-android
 
 ## 👩‍💻 Author
 
-**Vipusa Sriharan**  
+**Mohanathas Holins**  
 Third Year Software Engineering Undergraduate  
-[GitHub Profile](https://github.com/vipusrihar)
+[GitHub Profile](https://github.com/holibhai)
 
 ---
 
+ 
 
-### 📸 Screenshots
 
-| | | |
-|---|---|---|
-| ![image1](readmefiles/first.png) | ![image2](readmefiles/second.png) | ![image3](readmefiles/third.png) |
-| ![image4](readmefiles/fourth.png) | ![image5](readmefiles/fifth.png) | ![image6](readmefiles/sixth.png) |
-
----
